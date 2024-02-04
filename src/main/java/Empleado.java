@@ -4,7 +4,7 @@ import java.math.RoundingMode;
 /**
  * Esta clase representa un empleado con un salario bruto, impuestos y salario neto.
  */
-class Empleado {
+public class Empleado {
     private double salarioBruto;   // Salario bruto del empleado
     private double impuesto;       // Impuestos y retenciones del salario bruto
     private double salarioNeto;    // Salario neto del empleado
